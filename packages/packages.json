@@ -5,7 +5,6 @@
             "sha1": "af59ab08a9ad77d86168a2896f1466177bdc94a0"
         }
     },
-    "metadata-url": "/p2/%package%.json",
     "available-packages": [
         "rad-works/module-dropday",
         "rad-works/module-inventory-shipping-source",
