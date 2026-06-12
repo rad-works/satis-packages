@@ -1,0 +1,79 @@
+{
+    "packages": {
+        "rad-works/module-shipengine-carrier": [
+            {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "ccc56e1e0f3a4d41ab6bd6a4312bbecb78d96397"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/ccc56e1e0f3a4d41ab6bd6a4312bbecb78d96397",
+                    "reference": "ccc56e1e0f3a4d41ab6bd6a4312bbecb78d96397",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-api-core": "*"
+                },
+                "time": "2026-02-19T12:52:28+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrier\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.5.6",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            },
+            {
+                "version": "dev-refactoring",
+                "version_normalized": "dev-refactoring",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "fc94ea8b330fef1c4570253dc933a8b6d82dd04f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/fc94ea8b330fef1c4570253dc933a8b6d82dd04f",
+                    "reference": "fc94ea8b330fef1c4570253dc933a8b6d82dd04f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipstation-api-core": "*"
+                },
+                "time": "2024-12-14T19:55:45+00:00",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationCarrier\\": ""
+                    }
+                },
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/refactoring",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                },
+                "default-branch": "__unset"
+            }
+        ]
+    },
+    "minified": "composer/2.0"
+}

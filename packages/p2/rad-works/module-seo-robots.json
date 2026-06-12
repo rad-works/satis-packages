@@ -1,0 +1,117 @@
+{
+    "packages": {
+        "rad-works/module-seo-robots": [
+            {
+                "name": "rad-works/module-seo-robots",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-seo-robots.git",
+                    "reference": "35c58f8207717ead00169edfddb3577a11e12154"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-seo-robots/zipball/35c58f8207717ead00169edfddb3577a11e12154",
+                    "reference": "35c58f8207717ead00169edfddb3577a11e12154",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^103.0.0",
+                    "php": "~8.1.0"
+                },
+                "time": "2024-08-10T14:14:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DmiRud\\SeoRobots\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-seo-robots/tree/0.1.0",
+                    "issues": "https://github.com/rad-works/module-seo-robots/issues"
+                }
+            },
+            {
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-seo-robots.git",
+                    "reference": "7d9918d66a8b5e4a16a57f6158a6e3a541b13ecc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-seo-robots/zipball/7d9918d66a8b5e4a16a57f6158a6e3a541b13ecc",
+                    "reference": "7d9918d66a8b5e4a16a57f6158a6e3a541b13ecc",
+                    "shasum": ""
+                },
+                "time": "2024-08-10T14:35:01+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-seo-robots/tree/0.1.1",
+                    "issues": "https://github.com/rad-works/module-seo-robots/issues"
+                }
+            },
+            {
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-seo-robots.git",
+                    "reference": "ee133b367d1039d2e27a369daa12640cdaa6c33a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-seo-robots/zipball/ee133b367d1039d2e27a369daa12640cdaa6c33a",
+                    "reference": "ee133b367d1039d2e27a369daa12640cdaa6c33a",
+                    "shasum": ""
+                },
+                "time": "2024-09-30T08:09:12+00:00",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\SeoRobots\\": ""
+                    }
+                },
+                "support": {
+                    "source": "https://github.com/rad-works/module-seo-robots/tree/0.2.1",
+                    "issues": "https://github.com/rad-works/module-seo-robots/issues"
+                }
+            },
+            {
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-seo-robots.git",
+                    "reference": "c9d50c684d6c0610c05cfd6d056c07ac9f03d431"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-seo-robots/zipball/c9d50c684d6c0610c05cfd6d056c07ac9f03d431",
+                    "reference": "c9d50c684d6c0610c05cfd6d056c07ac9f03d431",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^103.0.0",
+                    "php": ">=8.1.0"
+                },
+                "time": "2026-05-18T16:39:12+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-seo-robots/tree/0.2.2",
+                    "issues": "https://github.com/rad-works/module-seo-robots/issues"
+                }
+            }
+        ]
+    },
+    "minified": "composer/2.0"
+}

@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "rad-works/module-shipengine-carrier-surcharge": [
+            {
+                "name": "rad-works/module-shipengine-carrier-surcharge",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipengine-carrier-surcharge.git",
+                    "reference": "e19022e81faaf3ce1a1dd09d5e201272367a8fd1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier-surcharge/zipball/e19022e81faaf3ce1a1dd09d5e201272367a8fd1",
+                    "reference": "e19022e81faaf3ce1a1dd09d5e201272367a8fd1",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-carrier": "*"
+                },
+                "time": "2025-08-01T08:47:41+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrierSurcharge\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier-surcharge/tree/0.3.2",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier-surcharge/issues"
+                }
+            }
+        ]
+    },
+    "minified": "composer/2.0"
+}

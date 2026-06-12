@@ -1,0 +1,92 @@
+{
+    "packages": {
+        "rad-works/module-dropday": [
+            {
+                "name": "rad-works/module-dropday",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-dropday.git",
+                    "reference": "76cbe11b660a5fd8b450a9112c471b2ccdae62f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-dropday/zipball/76cbe11b660a5fd8b450a9112c471b2ccdae62f6",
+                    "reference": "76cbe11b660a5fd8b450a9112c471b2ccdae62f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "dropday-io/module-orderautomation": "1.0.4",
+                    "magento/module-sales": "*"
+                },
+                "time": "2024-06-19T07:54:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DmiRud\\Dropday\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-dropday/tree/0.1.0",
+                    "issues": "https://github.com/rad-works/module-dropday/issues"
+                }
+            },
+            {
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-dropday.git",
+                    "reference": "df9b0acd1de8b94bfb70db81e0e935e9116a9081"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-dropday/zipball/df9b0acd1de8b94bfb70db81e0e935e9116a9081",
+                    "reference": "df9b0acd1de8b94bfb70db81e0e935e9116a9081",
+                    "shasum": ""
+                },
+                "time": "2024-07-27T12:16:19+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-dropday/tree/0.2.0",
+                    "issues": "https://github.com/rad-works/module-dropday/issues"
+                }
+            },
+            {
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-dropday.git",
+                    "reference": "84fd8a1cee253022fa273034368ada9679beb820"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-dropday/zipball/84fd8a1cee253022fa273034368ada9679beb820",
+                    "reference": "84fd8a1cee253022fa273034368ada9679beb820",
+                    "shasum": ""
+                },
+                "time": "2025-05-14T09:17:00+00:00",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\Dropday\\": ""
+                    }
+                },
+                "support": {
+                    "source": "https://github.com/rad-works/module-dropday/tree/0.2.2",
+                    "issues": "https://github.com/rad-works/module-dropday/issues"
+                }
+            }
+        ]
+    },
+    "minified": "composer/2.0"
+}

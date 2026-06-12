@@ -1,0 +1,121 @@
+{
+    "packages": {
+        "rad-works/module-shipstation-shipnotify": [
+            {
+                "name": "rad-works/module-shipstation-shipnotify",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipstation-shipnotify.git",
+                    "reference": "bb27e4cc34fc5cf6262f56ee9b5e2a4d4ad7dd4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipstation-shipnotify/zipball/bb27e4cc34fc5cf6262f56ee9b5e2a4d4ad7dd4f",
+                    "reference": "bb27e4cc34fc5cf6262f56ee9b5e2a4d4ad7dd4f",
+                    "shasum": ""
+                },
+                "require": {
+                    "auctane/api": "*",
+                    "cweagans/composer-patches": "*",
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-quick-order-shipment": "*"
+                },
+                "time": "2024-09-29T14:39:21+00:00",
+                "type": "magento2-module",
+                "extra": {
+                    "composer-exit-on-patch-failure": true,
+                    "patches": {
+                        "auctane/api": {
+                            "Override ShipNotify::_getOrderShipment": "./vendor/rad-works/module-shipstation-shipnotify/patches/auctane-api/override-shipnotify-shipment-creation.patch"
+                        }
+                    }
+                },
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationShipNotify\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipstation-shipnotify/tree/0.3.0",
+                    "issues": "https://github.com/rad-works/module-shipstation-shipnotify/issues"
+                }
+            },
+            {
+                "version": "0.3.1",
+                "version_normalized": "0.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipstation-shipnotify.git",
+                    "reference": "e6e24792b4184b0891316fd672d00b5a1cfe1409"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipstation-shipnotify/zipball/e6e24792b4184b0891316fd672d00b5a1cfe1409",
+                    "reference": "e6e24792b4184b0891316fd672d00b5a1cfe1409",
+                    "shasum": ""
+                },
+                "time": "2024-09-29T15:53:12+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipstation-shipnotify/tree/0.3.1",
+                    "issues": "https://github.com/rad-works/module-shipstation-shipnotify/issues"
+                }
+            },
+            {
+                "version": "0.3.2",
+                "version_normalized": "0.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipstation-shipnotify.git",
+                    "reference": "136b49733dd2fc4e8af659813905bc6440ecb7a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipstation-shipnotify/zipball/136b49733dd2fc4e8af659813905bc6440ecb7a4",
+                    "reference": "136b49733dd2fc4e8af659813905bc6440ecb7a4",
+                    "shasum": ""
+                },
+                "time": "2024-09-30T06:41:50+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipstation-shipnotify/tree/0.3.2",
+                    "issues": "https://github.com/rad-works/module-shipstation-shipnotify/issues"
+                }
+            },
+            {
+                "version": "0.3.3",
+                "version_normalized": "0.3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipstation-shipnotify.git",
+                    "reference": "bd6d8cc2bdd9d785d3d349e2e6797e523aa33f08"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipstation-shipnotify/zipball/bd6d8cc2bdd9d785d3d349e2e6797e523aa33f08",
+                    "reference": "bd6d8cc2bdd9d785d3d349e2e6797e523aa33f08",
+                    "shasum": ""
+                },
+                "require": {
+                    "auctane/api": "*",
+                    "cweagans/composer-patches": "*",
+                    "php": ">=8.1.0",
+                    "rad-works/module-quick-order-shipment": "*"
+                },
+                "time": "2026-05-18T16:48:12+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipstation-shipnotify/tree/0.3.3",
+                    "issues": "https://github.com/rad-works/module-shipstation-shipnotify/issues"
+                }
+            }
+        ]
+    },
+    "minified": "composer/2.0"
+}

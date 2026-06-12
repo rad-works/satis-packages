@@ -1,0 +1,19 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$af59ab08a9ad77d86168a2896f1466177bdc94a0.json": {
+            "sha1": "af59ab08a9ad77d86168a2896f1466177bdc94a0"
+        }
+    },
+    "metadata-url": "/p2/%package%.json",
+    "available-packages": [
+        "rad-works/module-dropday",
+        "rad-works/module-inventory-shipping-source",
+        "rad-works/module-quick-order-shipment",
+        "rad-works/module-seo-robots",
+        "rad-works/module-shipengine-api-core",
+        "rad-works/module-shipengine-carrier",
+        "rad-works/module-shipengine-carrier-surcharge",
+        "rad-works/module-shipstation-shipnotify"
+    ]
+}

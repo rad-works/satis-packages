@@ -1,0 +1,1921 @@
+{
+    "packages": {
+        "rad-works/module-dropday": {
+            "0.1.0": {
+                "name": "rad-works/module-dropday",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-dropday.git",
+                    "reference": "76cbe11b660a5fd8b450a9112c471b2ccdae62f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-dropday/zipball/76cbe11b660a5fd8b450a9112c471b2ccdae62f6",
+                    "reference": "76cbe11b660a5fd8b450a9112c471b2ccdae62f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "dropday-io/module-orderautomation": "1.0.4",
+                    "magento/module-sales": "*"
+                },
+                "time": "2024-06-19T07:54:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DmiRud\\Dropday\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-dropday/tree/0.1.0",
+                    "issues": "https://github.com/rad-works/module-dropday/issues"
+                }
+            },
+            "0.2.0": {
+                "name": "rad-works/module-dropday",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-dropday.git",
+                    "reference": "df9b0acd1de8b94bfb70db81e0e935e9116a9081"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-dropday/zipball/df9b0acd1de8b94bfb70db81e0e935e9116a9081",
+                    "reference": "df9b0acd1de8b94bfb70db81e0e935e9116a9081",
+                    "shasum": ""
+                },
+                "require": {
+                    "dropday-io/module-orderautomation": "1.0.4",
+                    "magento/module-sales": "*"
+                },
+                "time": "2024-07-27T12:16:19+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DmiRud\\Dropday\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-dropday/tree/0.2.0",
+                    "issues": "https://github.com/rad-works/module-dropday/issues"
+                }
+            },
+            "0.2.2": {
+                "name": "rad-works/module-dropday",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-dropday.git",
+                    "reference": "84fd8a1cee253022fa273034368ada9679beb820"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-dropday/zipball/84fd8a1cee253022fa273034368ada9679beb820",
+                    "reference": "84fd8a1cee253022fa273034368ada9679beb820",
+                    "shasum": ""
+                },
+                "require": {
+                    "dropday-io/module-orderautomation": "1.0.4",
+                    "magento/module-sales": "*"
+                },
+                "time": "2025-05-14T09:17:00+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\Dropday\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-dropday/tree/0.2.2",
+                    "issues": "https://github.com/rad-works/module-dropday/issues"
+                }
+            },
+            "dev-main": {
+                "name": "rad-works/module-dropday",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-dropday.git",
+                    "reference": "84fd8a1cee253022fa273034368ada9679beb820"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-dropday/zipball/84fd8a1cee253022fa273034368ada9679beb820",
+                    "reference": "84fd8a1cee253022fa273034368ada9679beb820",
+                    "shasum": ""
+                },
+                "require": {
+                    "dropday-io/module-orderautomation": "1.0.4",
+                    "magento/module-sales": "*"
+                },
+                "time": "2025-05-14T09:17:00+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\Dropday\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-dropday/tree/0.2.2",
+                    "issues": "https://github.com/rad-works/module-dropday/issues"
+                }
+            }
+        },
+        "rad-works/module-inventory-shipping-source": {
+            "0.1.0": {
+                "name": "rad-works/module-inventory-shipping-source",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "0d82ec1d1f395068085ef84ee8df3a8f0129c08f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/0d82ec1d1f395068085ef84ee8df3a8f0129c08f",
+                    "reference": "0d82ec1d1f395068085ef84ee8df3a8f0129c08f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-shipping": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~8.1.0"
+                },
+                "time": "2024-07-04T15:51:15+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DmiRud\\InventoryShippingSource\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.1.0",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            "0.2.0": {
+                "name": "rad-works/module-inventory-shipping-source",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "5008c3d0915e70bfe28c3ad314a6f66c03001c86"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/5008c3d0915e70bfe28c3ad314a6f66c03001c86",
+                    "reference": "5008c3d0915e70bfe28c3ad314a6f66c03001c86",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-shipping": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~8.1.0"
+                },
+                "time": "2024-07-05T13:44:21+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DmiRud\\InventoryShippingSource\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.2.0",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            "0.3.0": {
+                "name": "rad-works/module-inventory-shipping-source",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "ad8a6b0e4c109c53f6d68a63f99e617a1e89c658"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/ad8a6b0e4c109c53f6d68a63f99e617a1e89c658",
+                    "reference": "ad8a6b0e4c109c53f6d68a63f99e617a1e89c658",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-shipping": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~8.1.0"
+                },
+                "time": "2024-07-05T18:39:51+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DmiRud\\InventoryShippingSource\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.3.0",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            "0.4.0": {
+                "name": "rad-works/module-inventory-shipping-source",
+                "version": "0.4.0",
+                "version_normalized": "0.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "72b79dd8c118faee7d6d482b40760dfbc10c9b0e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/72b79dd8c118faee7d6d482b40760dfbc10c9b0e",
+                    "reference": "72b79dd8c118faee7d6d482b40760dfbc10c9b0e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-shipping": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~8.1.0"
+                },
+                "time": "2024-09-10T09:36:59+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\InventoryShippingSource\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.4.0",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            "0.4.1": {
+                "name": "rad-works/module-inventory-shipping-source",
+                "version": "0.4.1",
+                "version_normalized": "0.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "2a4bb27c54d3be6d388d314e4f3bea91871b817d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/2a4bb27c54d3be6d388d314e4f3bea91871b817d",
+                    "reference": "2a4bb27c54d3be6d388d314e4f3bea91871b817d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-shipping": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~8.1.0"
+                },
+                "time": "2024-12-24T10:23:19+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\InventoryShippingSource\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.4.1",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            "0.4.2": {
+                "name": "rad-works/module-inventory-shipping-source",
+                "version": "0.4.2",
+                "version_normalized": "0.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "1f358005b5204c5379d23e70faac0dd66bafeb3f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/1f358005b5204c5379d23e70faac0dd66bafeb3f",
+                    "reference": "1f358005b5204c5379d23e70faac0dd66bafeb3f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-shipping": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": ">=8.1.0"
+                },
+                "time": "2024-12-24T10:33:24+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\InventoryShippingSource\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.4.2",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            "0.4.3": {
+                "name": "rad-works/module-inventory-shipping-source",
+                "version": "0.4.3",
+                "version_normalized": "0.4.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "4afaa85e4444b21c1b25473e981edc3909d091fb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/4afaa85e4444b21c1b25473e981edc3909d091fb",
+                    "reference": "4afaa85e4444b21c1b25473e981edc3909d091fb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-shipping": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": ">=8.1.0"
+                },
+                "time": "2025-06-09T12:33:28+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\InventoryShippingSource\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.4.3",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            "0.4.4": {
+                "name": "rad-works/module-inventory-shipping-source",
+                "version": "0.4.4",
+                "version_normalized": "0.4.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "cfeca87547e8500b1c751a497391f534779e1d23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/cfeca87547e8500b1c751a497391f534779e1d23",
+                    "reference": "cfeca87547e8500b1c751a497391f534779e1d23",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-shipping": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": ">=8.1.0"
+                },
+                "time": "2025-09-03T12:19:26+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\InventoryShippingSource\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.4.4",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            "dev-main": {
+                "name": "rad-works/module-inventory-shipping-source",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "cfeca87547e8500b1c751a497391f534779e1d23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/cfeca87547e8500b1c751a497391f534779e1d23",
+                    "reference": "cfeca87547e8500b1c751a497391f534779e1d23",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-shipping": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": ">=8.1.0"
+                },
+                "time": "2025-09-03T12:19:26+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\InventoryShippingSource\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.4.4",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            }
+        },
+        "rad-works/module-quick-order-shipment": {
+            "0.1.0": {
+                "name": "rad-works/module-quick-order-shipment",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-quick-order-shipment.git",
+                    "reference": "1e69548c0cd7b18bf60540fd19a3973d663a2090"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-quick-order-shipment/zipball/1e69548c0cd7b18bf60540fd19a3973d663a2090",
+                    "reference": "1e69548c0cd7b18bf60540fd19a3973d663a2090",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0"
+                },
+                "time": "2024-09-10T15:53:12+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\QuickOrderShipment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-quick-order-shipment/tree/0.1.0",
+                    "issues": "https://github.com/rad-works/module-quick-order-shipment/issues"
+                }
+            },
+            "0.2.0": {
+                "name": "rad-works/module-quick-order-shipment",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-quick-order-shipment.git",
+                    "reference": "4be6b087b4d51c3fb42ecb35596d2088768241dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-quick-order-shipment/zipball/4be6b087b4d51c3fb42ecb35596d2088768241dc",
+                    "reference": "4be6b087b4d51c3fb42ecb35596d2088768241dc",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0"
+                },
+                "time": "2024-09-29T14:34:23+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\QuickOrderShipment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-quick-order-shipment/tree/0.2.0",
+                    "issues": "https://github.com/rad-works/module-quick-order-shipment/issues"
+                }
+            },
+            "0.2.1": {
+                "name": "rad-works/module-quick-order-shipment",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-quick-order-shipment.git",
+                    "reference": "72cfdfb4225e48d955079f94c3795df7b43108d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-quick-order-shipment/zipball/72cfdfb4225e48d955079f94c3795df7b43108d7",
+                    "reference": "72cfdfb4225e48d955079f94c3795df7b43108d7",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.1.0"
+                },
+                "time": "2026-05-18T16:43:04+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\QuickOrderShipment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-quick-order-shipment/tree/0.2.1",
+                    "issues": "https://github.com/rad-works/module-quick-order-shipment/issues"
+                }
+            },
+            "dev-main": {
+                "name": "rad-works/module-quick-order-shipment",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-quick-order-shipment.git",
+                    "reference": "72cfdfb4225e48d955079f94c3795df7b43108d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-quick-order-shipment/zipball/72cfdfb4225e48d955079f94c3795df7b43108d7",
+                    "reference": "72cfdfb4225e48d955079f94c3795df7b43108d7",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.1.0"
+                },
+                "time": "2026-05-18T16:43:04+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\QuickOrderShipment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-quick-order-shipment/tree/0.2.1",
+                    "issues": "https://github.com/rad-works/module-quick-order-shipment/issues"
+                }
+            }
+        },
+        "rad-works/module-seo-robots": {
+            "0.1.0": {
+                "name": "rad-works/module-seo-robots",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-seo-robots.git",
+                    "reference": "35c58f8207717ead00169edfddb3577a11e12154"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-seo-robots/zipball/35c58f8207717ead00169edfddb3577a11e12154",
+                    "reference": "35c58f8207717ead00169edfddb3577a11e12154",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^103.0.0",
+                    "php": "~8.1.0"
+                },
+                "time": "2024-08-10T14:14:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DmiRud\\SeoRobots\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-seo-robots/tree/0.1.0",
+                    "issues": "https://github.com/rad-works/module-seo-robots/issues"
+                }
+            },
+            "0.1.1": {
+                "name": "rad-works/module-seo-robots",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-seo-robots.git",
+                    "reference": "7d9918d66a8b5e4a16a57f6158a6e3a541b13ecc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-seo-robots/zipball/7d9918d66a8b5e4a16a57f6158a6e3a541b13ecc",
+                    "reference": "7d9918d66a8b5e4a16a57f6158a6e3a541b13ecc",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^103.0.0",
+                    "php": "~8.1.0"
+                },
+                "time": "2024-08-10T14:35:01+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DmiRud\\SeoRobots\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-seo-robots/tree/0.1.1",
+                    "issues": "https://github.com/rad-works/module-seo-robots/issues"
+                }
+            },
+            "0.2.1": {
+                "name": "rad-works/module-seo-robots",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-seo-robots.git",
+                    "reference": "ee133b367d1039d2e27a369daa12640cdaa6c33a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-seo-robots/zipball/ee133b367d1039d2e27a369daa12640cdaa6c33a",
+                    "reference": "ee133b367d1039d2e27a369daa12640cdaa6c33a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^103.0.0",
+                    "php": "~8.1.0"
+                },
+                "time": "2024-09-30T08:09:12+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\SeoRobots\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-seo-robots/tree/0.2.1",
+                    "issues": "https://github.com/rad-works/module-seo-robots/issues"
+                }
+            },
+            "0.2.2": {
+                "name": "rad-works/module-seo-robots",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-seo-robots.git",
+                    "reference": "c9d50c684d6c0610c05cfd6d056c07ac9f03d431"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-seo-robots/zipball/c9d50c684d6c0610c05cfd6d056c07ac9f03d431",
+                    "reference": "c9d50c684d6c0610c05cfd6d056c07ac9f03d431",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^103.0.0",
+                    "php": ">=8.1.0"
+                },
+                "time": "2026-05-18T16:39:12+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\SeoRobots\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-seo-robots/tree/0.2.2",
+                    "issues": "https://github.com/rad-works/module-seo-robots/issues"
+                }
+            },
+            "dev-main": {
+                "name": "rad-works/module-seo-robots",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-seo-robots.git",
+                    "reference": "c9d50c684d6c0610c05cfd6d056c07ac9f03d431"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-seo-robots/zipball/c9d50c684d6c0610c05cfd6d056c07ac9f03d431",
+                    "reference": "c9d50c684d6c0610c05cfd6d056c07ac9f03d431",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^103.0.0",
+                    "php": ">=8.1.0"
+                },
+                "time": "2026-05-18T16:39:12+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\SeoRobots\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-seo-robots/tree/0.2.2",
+                    "issues": "https://github.com/rad-works/module-seo-robots/issues"
+                }
+            }
+        },
+        "rad-works/module-shipengine-api-core": {
+            "0.1.0": {
+                "name": "rad-works/module-shipengine-api-core",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-api-core.git",
+                    "reference": "8ee325118e05703423f7244f2551210717d68902"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-api-core/zipball/8ee325118e05703423f7244f2551210717d68902",
+                    "reference": "8ee325118e05703423f7244f2551210717d68902",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0"
+                },
+                "time": "2024-09-25T14:35:58+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationApiCore\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-api-core/tree/0.1.0",
+                    "issues": "https://github.com/rad-works/module-shipengine-api-core/issues"
+                }
+            },
+            "0.2.0": {
+                "name": "rad-works/module-shipengine-api-core",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-api-core.git",
+                    "reference": "5106e5ce4b26c09bbf4fd976dc1131a906b10758"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-api-core/zipball/5106e5ce4b26c09bbf4fd976dc1131a906b10758",
+                    "reference": "5106e5ce4b26c09bbf4fd976dc1131a906b10758",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0"
+                },
+                "time": "2024-10-17T16:34:57+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationApiCore\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-api-core/tree/0.2.0",
+                    "issues": "https://github.com/rad-works/module-shipengine-api-core/issues"
+                }
+            },
+            "0.2.1": {
+                "name": "rad-works/module-shipengine-api-core",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-api-core.git",
+                    "reference": "39b897696a79642bd15c69c30ebbf5ead406acef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-api-core/zipball/39b897696a79642bd15c69c30ebbf5ead406acef",
+                    "reference": "39b897696a79642bd15c69c30ebbf5ead406acef",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0"
+                },
+                "time": "2024-10-28T10:28:48+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationApiCore\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-api-core/tree/0.2.1",
+                    "issues": "https://github.com/rad-works/module-shipengine-api-core/issues"
+                }
+            },
+            "0.3.1": {
+                "name": "rad-works/module-shipengine-api-core",
+                "version": "0.3.1",
+                "version_normalized": "0.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-api-core.git",
+                    "reference": "6b8fc9b86cd5e258805e17b5449737e238c560c2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-api-core/zipball/6b8fc9b86cd5e258805e17b5449737e238c560c2",
+                    "reference": "6b8fc9b86cd5e258805e17b5449737e238c560c2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0"
+                },
+                "time": "2025-06-07T19:51:45+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineApiCore\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-api-core/tree/0.3.1",
+                    "issues": "https://github.com/rad-works/module-shipengine-api-core/issues"
+                }
+            },
+            "dev-feature/system-configs": {
+                "name": "rad-works/module-shipengine-api-core",
+                "version": "dev-feature/system-configs",
+                "version_normalized": "dev-feature/system-configs",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-api-core.git",
+                    "reference": "f1467217a8c3d578c94285f51e4b79cd4f78b023"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-api-core/zipball/f1467217a8c3d578c94285f51e4b79cd4f78b023",
+                    "reference": "f1467217a8c3d578c94285f51e4b79cd4f78b023",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0"
+                },
+                "time": "2024-10-17T16:58:45+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationApiCore\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-api-core/tree/feature/system-configs",
+                    "issues": "https://github.com/rad-works/module-shipengine-api-core/issues"
+                }
+            },
+            "dev-main": {
+                "name": "rad-works/module-shipengine-api-core",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-api-core.git",
+                    "reference": "6b8fc9b86cd5e258805e17b5449737e238c560c2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-api-core/zipball/6b8fc9b86cd5e258805e17b5449737e238c560c2",
+                    "reference": "6b8fc9b86cd5e258805e17b5449737e238c560c2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0"
+                },
+                "time": "2025-06-07T19:51:45+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineApiCore\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-api-core/tree/0.3.1",
+                    "issues": "https://github.com/rad-works/module-shipengine-api-core/issues"
+                }
+            }
+        },
+        "rad-works/module-shipengine-carrier": {
+            "0.2.4": {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "0.2.4",
+                "version_normalized": "0.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "b9e23cdf99e364223c72df2188f81f299739be9d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/b9e23cdf99e364223c72df2188f81f299739be9d",
+                    "reference": "b9e23cdf99e364223c72df2188f81f299739be9d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0"
+                },
+                "time": "2024-07-27T10:01:46+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DmiRud\\ShipStation\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.2.4",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            },
+            "0.5.1": {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "0.5.1",
+                "version_normalized": "0.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "32c181200b1d339895c47b948b34ae81959e1cbc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/32c181200b1d339895c47b948b34ae81959e1cbc",
+                    "reference": "32c181200b1d339895c47b948b34ae81959e1cbc",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-api-core": "*"
+                },
+                "time": "2025-06-07T19:46:18+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrier\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.5.1",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            },
+            "0.5.2": {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "0.5.2",
+                "version_normalized": "0.5.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "54be744938e048e0faffd9d3aeeedbb59e0d48e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/54be744938e048e0faffd9d3aeeedbb59e0d48e2",
+                    "reference": "54be744938e048e0faffd9d3aeeedbb59e0d48e2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-api-core": "*"
+                },
+                "time": "2025-06-09T06:53:21+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrier\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.5.2",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            },
+            "0.5.3": {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "0.5.3",
+                "version_normalized": "0.5.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "6f5a335dac5140de7269555fdbd1561c32020a46"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/6f5a335dac5140de7269555fdbd1561c32020a46",
+                    "reference": "6f5a335dac5140de7269555fdbd1561c32020a46",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-api-core": "*"
+                },
+                "time": "2025-06-12T17:25:44+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrier\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.5.3",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            },
+            "0.5.4": {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "0.5.4",
+                "version_normalized": "0.5.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "10de3a66db7568390adbafb59f124c82f3c8046c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/10de3a66db7568390adbafb59f124c82f3c8046c",
+                    "reference": "10de3a66db7568390adbafb59f124c82f3c8046c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-api-core": "*"
+                },
+                "time": "2025-08-01T08:43:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrier\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.5.4",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            },
+            "0.5.5": {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "0.5.5",
+                "version_normalized": "0.5.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "6fc34d583da9a514cfa3a6d249c413ac61833bc3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/6fc34d583da9a514cfa3a6d249c413ac61833bc3",
+                    "reference": "6fc34d583da9a514cfa3a6d249c413ac61833bc3",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-api-core": "*"
+                },
+                "time": "2025-09-03T15:07:17+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrier\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.5.5",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            },
+            "0.5.6": {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "0.5.6",
+                "version_normalized": "0.5.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "ccc56e1e0f3a4d41ab6bd6a4312bbecb78d96397"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/ccc56e1e0f3a4d41ab6bd6a4312bbecb78d96397",
+                    "reference": "ccc56e1e0f3a4d41ab6bd6a4312bbecb78d96397",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-api-core": "*"
+                },
+                "time": "2026-02-19T12:52:28+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrier\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.5.6",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            },
+            "dev-main": {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "ccc56e1e0f3a4d41ab6bd6a4312bbecb78d96397"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/ccc56e1e0f3a4d41ab6bd6a4312bbecb78d96397",
+                    "reference": "ccc56e1e0f3a4d41ab6bd6a4312bbecb78d96397",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-api-core": "*"
+                },
+                "time": "2026-02-19T12:52:28+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrier\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.5.6",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            },
+            "dev-refactoring": {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "dev-refactoring",
+                "version_normalized": "dev-refactoring",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "fc94ea8b330fef1c4570253dc933a8b6d82dd04f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/fc94ea8b330fef1c4570253dc933a8b6d82dd04f",
+                    "reference": "fc94ea8b330fef1c4570253dc933a8b6d82dd04f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipstation-api-core": "*"
+                },
+                "time": "2024-12-14T19:55:45+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationCarrier\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/refactoring",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            }
+        },
+        "rad-works/module-shipengine-carrier-surcharge": {
+            "0.2.0": {
+                "name": "rad-works/module-shipengine-carrier-surcharge",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipengine-carrier-surcharge.git",
+                    "reference": "5140d02b36bb146af4cf93c9fc83b81e46c8f430"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier-surcharge/zipball/5140d02b36bb146af4cf93c9fc83b81e46c8f430",
+                    "reference": "5140d02b36bb146af4cf93c9fc83b81e46c8f430",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipstation-carrier": "*"
+                },
+                "time": "2024-10-25T16:08:32+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationCarrierSurcharge\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier-surcharge/tree/0.2.0",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier-surcharge/issues"
+                }
+            },
+            "0.2.1": {
+                "name": "rad-works/module-shipengine-carrier-surcharge",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipengine-carrier-surcharge.git",
+                    "reference": "12779552e411d9d2ef739dea820fd699cf0dcffb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier-surcharge/zipball/12779552e411d9d2ef739dea820fd699cf0dcffb",
+                    "reference": "12779552e411d9d2ef739dea820fd699cf0dcffb",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipstation-carrier": "*"
+                },
+                "time": "2024-10-28T12:01:54+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationCarrierSurcharge\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier-surcharge/tree/0.2.1",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier-surcharge/issues"
+                }
+            },
+            "0.3.1": {
+                "name": "rad-works/module-shipengine-carrier-surcharge",
+                "version": "0.3.1",
+                "version_normalized": "0.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipengine-carrier-surcharge.git",
+                    "reference": "07b36e343b14e3c886269845019b38e7d1117870"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier-surcharge/zipball/07b36e343b14e3c886269845019b38e7d1117870",
+                    "reference": "07b36e343b14e3c886269845019b38e7d1117870",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-carrier": "*"
+                },
+                "time": "2025-06-08T11:42:45+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrierSurcharge\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier-surcharge/tree/0.3.1",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier-surcharge/issues"
+                }
+            },
+            "0.3.2": {
+                "name": "rad-works/module-shipengine-carrier-surcharge",
+                "version": "0.3.2",
+                "version_normalized": "0.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipengine-carrier-surcharge.git",
+                    "reference": "e19022e81faaf3ce1a1dd09d5e201272367a8fd1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier-surcharge/zipball/e19022e81faaf3ce1a1dd09d5e201272367a8fd1",
+                    "reference": "e19022e81faaf3ce1a1dd09d5e201272367a8fd1",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-carrier": "*"
+                },
+                "time": "2025-08-01T08:47:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrierSurcharge\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier-surcharge/tree/0.3.2",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier-surcharge/issues"
+                }
+            },
+            "dev-main": {
+                "name": "rad-works/module-shipengine-carrier-surcharge",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipengine-carrier-surcharge.git",
+                    "reference": "e19022e81faaf3ce1a1dd09d5e201272367a8fd1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier-surcharge/zipball/e19022e81faaf3ce1a1dd09d5e201272367a8fd1",
+                    "reference": "e19022e81faaf3ce1a1dd09d5e201272367a8fd1",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-carrier": "*"
+                },
+                "time": "2025-08-01T08:47:41+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrierSurcharge\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier-surcharge/tree/0.3.2",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier-surcharge/issues"
+                }
+            }
+        },
+        "rad-works/module-shipstation-shipnotify": {
+            "0.3.0": {
+                "name": "rad-works/module-shipstation-shipnotify",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipstation-shipnotify.git",
+                    "reference": "bb27e4cc34fc5cf6262f56ee9b5e2a4d4ad7dd4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipstation-shipnotify/zipball/bb27e4cc34fc5cf6262f56ee9b5e2a4d4ad7dd4f",
+                    "reference": "bb27e4cc34fc5cf6262f56ee9b5e2a4d4ad7dd4f",
+                    "shasum": ""
+                },
+                "require": {
+                    "auctane/api": "*",
+                    "cweagans/composer-patches": "*",
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-quick-order-shipment": "*"
+                },
+                "time": "2024-09-29T14:39:21+00:00",
+                "type": "magento2-module",
+                "extra": {
+                    "composer-exit-on-patch-failure": true,
+                    "patches": {
+                        "auctane/api": {
+                            "Override ShipNotify::_getOrderShipment": "./vendor/rad-works/module-shipstation-shipnotify/patches/auctane-api/override-shipnotify-shipment-creation.patch"
+                        }
+                    }
+                },
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationShipNotify\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipstation-shipnotify/tree/0.3.0",
+                    "issues": "https://github.com/rad-works/module-shipstation-shipnotify/issues"
+                }
+            },
+            "0.3.1": {
+                "name": "rad-works/module-shipstation-shipnotify",
+                "version": "0.3.1",
+                "version_normalized": "0.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipstation-shipnotify.git",
+                    "reference": "e6e24792b4184b0891316fd672d00b5a1cfe1409"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipstation-shipnotify/zipball/e6e24792b4184b0891316fd672d00b5a1cfe1409",
+                    "reference": "e6e24792b4184b0891316fd672d00b5a1cfe1409",
+                    "shasum": ""
+                },
+                "require": {
+                    "auctane/api": "*",
+                    "cweagans/composer-patches": "*",
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-quick-order-shipment": "*"
+                },
+                "time": "2024-09-29T15:53:12+00:00",
+                "type": "magento2-module",
+                "extra": {
+                    "composer-exit-on-patch-failure": true,
+                    "patches": {
+                        "auctane/api": {
+                            "Override ShipNotify::_getOrderShipment": "./vendor/rad-works/module-shipstation-shipnotify/patches/auctane-api/override-shipnotify-shipment-creation.patch"
+                        }
+                    }
+                },
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationShipNotify\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipstation-shipnotify/tree/0.3.1",
+                    "issues": "https://github.com/rad-works/module-shipstation-shipnotify/issues"
+                }
+            },
+            "0.3.2": {
+                "name": "rad-works/module-shipstation-shipnotify",
+                "version": "0.3.2",
+                "version_normalized": "0.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipstation-shipnotify.git",
+                    "reference": "136b49733dd2fc4e8af659813905bc6440ecb7a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipstation-shipnotify/zipball/136b49733dd2fc4e8af659813905bc6440ecb7a4",
+                    "reference": "136b49733dd2fc4e8af659813905bc6440ecb7a4",
+                    "shasum": ""
+                },
+                "require": {
+                    "auctane/api": "*",
+                    "cweagans/composer-patches": "*",
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-quick-order-shipment": "*"
+                },
+                "time": "2024-09-30T06:41:50+00:00",
+                "type": "magento2-module",
+                "extra": {
+                    "composer-exit-on-patch-failure": true,
+                    "patches": {
+                        "auctane/api": {
+                            "Override ShipNotify::_getOrderShipment": "./vendor/rad-works/module-shipstation-shipnotify/patches/auctane-api/override-shipnotify-shipment-creation.patch"
+                        }
+                    }
+                },
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationShipNotify\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipstation-shipnotify/tree/0.3.2",
+                    "issues": "https://github.com/rad-works/module-shipstation-shipnotify/issues"
+                }
+            },
+            "0.3.3": {
+                "name": "rad-works/module-shipstation-shipnotify",
+                "version": "0.3.3",
+                "version_normalized": "0.3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipstation-shipnotify.git",
+                    "reference": "bd6d8cc2bdd9d785d3d349e2e6797e523aa33f08"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipstation-shipnotify/zipball/bd6d8cc2bdd9d785d3d349e2e6797e523aa33f08",
+                    "reference": "bd6d8cc2bdd9d785d3d349e2e6797e523aa33f08",
+                    "shasum": ""
+                },
+                "require": {
+                    "auctane/api": "*",
+                    "cweagans/composer-patches": "*",
+                    "php": ">=8.1.0",
+                    "rad-works/module-quick-order-shipment": "*"
+                },
+                "time": "2026-05-18T16:48:12+00:00",
+                "type": "magento2-module",
+                "extra": {
+                    "composer-exit-on-patch-failure": true,
+                    "patches": {
+                        "auctane/api": {
+                            "Override ShipNotify::_getOrderShipment": "./vendor/rad-works/module-shipstation-shipnotify/patches/auctane-api/override-shipnotify-shipment-creation.patch"
+                        }
+                    }
+                },
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationShipNotify\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipstation-shipnotify/tree/0.3.3",
+                    "issues": "https://github.com/rad-works/module-shipstation-shipnotify/issues"
+                }
+            },
+            "dev-main": {
+                "name": "rad-works/module-shipstation-shipnotify",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-shipstation-shipnotify.git",
+                    "reference": "bd6d8cc2bdd9d785d3d349e2e6797e523aa33f08"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipstation-shipnotify/zipball/bd6d8cc2bdd9d785d3d349e2e6797e523aa33f08",
+                    "reference": "bd6d8cc2bdd9d785d3d349e2e6797e523aa33f08",
+                    "shasum": ""
+                },
+                "require": {
+                    "auctane/api": "*",
+                    "cweagans/composer-patches": "*",
+                    "php": ">=8.1.0",
+                    "rad-works/module-quick-order-shipment": "*"
+                },
+                "time": "2026-05-18T16:48:12+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "extra": {
+                    "composer-exit-on-patch-failure": true,
+                    "patches": {
+                        "auctane/api": {
+                            "Override ShipNotify::_getOrderShipment": "./vendor/rad-works/module-shipstation-shipnotify/patches/auctane-api/override-shipnotify-shipment-creation.patch"
+                        }
+                    }
+                },
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipStationShipNotify\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipstation-shipnotify/tree/0.3.3",
+                    "issues": "https://github.com/rad-works/module-shipstation-shipnotify/issues"
+                }
+            }
+        }
+    }
+}

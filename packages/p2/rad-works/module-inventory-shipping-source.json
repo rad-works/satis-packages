@@ -1,0 +1,213 @@
+{
+    "packages": {
+        "rad-works/module-inventory-shipping-source": [
+            {
+                "name": "rad-works/module-inventory-shipping-source",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "0d82ec1d1f395068085ef84ee8df3a8f0129c08f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/0d82ec1d1f395068085ef84ee8df3a8f0129c08f",
+                    "reference": "0d82ec1d1f395068085ef84ee8df3a8f0129c08f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-shipping": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~8.1.0"
+                },
+                "time": "2024-07-04T15:51:15+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DmiRud\\InventoryShippingSource\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.1.0",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            {
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "5008c3d0915e70bfe28c3ad314a6f66c03001c86"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/5008c3d0915e70bfe28c3ad314a6f66c03001c86",
+                    "reference": "5008c3d0915e70bfe28c3ad314a6f66c03001c86",
+                    "shasum": ""
+                },
+                "time": "2024-07-05T13:44:21+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.2.0",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            {
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "ad8a6b0e4c109c53f6d68a63f99e617a1e89c658"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/ad8a6b0e4c109c53f6d68a63f99e617a1e89c658",
+                    "reference": "ad8a6b0e4c109c53f6d68a63f99e617a1e89c658",
+                    "shasum": ""
+                },
+                "time": "2024-07-05T18:39:51+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.3.0",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            {
+                "version": "0.4.0",
+                "version_normalized": "0.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "72b79dd8c118faee7d6d482b40760dfbc10c9b0e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/72b79dd8c118faee7d6d482b40760dfbc10c9b0e",
+                    "reference": "72b79dd8c118faee7d6d482b40760dfbc10c9b0e",
+                    "shasum": ""
+                },
+                "time": "2024-09-10T09:36:59+00:00",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\InventoryShippingSource\\": ""
+                    }
+                },
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.4.0",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            {
+                "version": "0.4.1",
+                "version_normalized": "0.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "2a4bb27c54d3be6d388d314e4f3bea91871b817d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/2a4bb27c54d3be6d388d314e4f3bea91871b817d",
+                    "reference": "2a4bb27c54d3be6d388d314e4f3bea91871b817d",
+                    "shasum": ""
+                },
+                "time": "2024-12-24T10:23:19+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.4.1",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            {
+                "version": "0.4.2",
+                "version_normalized": "0.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "1f358005b5204c5379d23e70faac0dd66bafeb3f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/1f358005b5204c5379d23e70faac0dd66bafeb3f",
+                    "reference": "1f358005b5204c5379d23e70faac0dd66bafeb3f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-shipping": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": ">=8.1.0"
+                },
+                "time": "2024-12-24T10:33:24+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.4.2",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            {
+                "version": "0.4.3",
+                "version_normalized": "0.4.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "4afaa85e4444b21c1b25473e981edc3909d091fb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/4afaa85e4444b21c1b25473e981edc3909d091fb",
+                    "reference": "4afaa85e4444b21c1b25473e981edc3909d091fb",
+                    "shasum": ""
+                },
+                "time": "2025-06-09T12:33:28+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.4.3",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            },
+            {
+                "version": "0.4.4",
+                "version_normalized": "0.4.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-inventory-shipping-source.git",
+                    "reference": "cfeca87547e8500b1c751a497391f534779e1d23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-inventory-shipping-source/zipball/cfeca87547e8500b1c751a497391f534779e1d23",
+                    "reference": "cfeca87547e8500b1c751a497391f534779e1d23",
+                    "shasum": ""
+                },
+                "time": "2025-09-03T12:19:26+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-inventory-shipping-source/tree/0.4.4",
+                    "issues": "https://github.com/rad-works/module-inventory-shipping-source/issues"
+                }
+            }
+        ]
+    },
+    "minified": "composer/2.0"
+}

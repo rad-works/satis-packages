@@ -1,0 +1,87 @@
+{
+    "packages": {
+        "rad-works/module-quick-order-shipment": [
+            {
+                "name": "rad-works/module-quick-order-shipment",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-quick-order-shipment.git",
+                    "reference": "1e69548c0cd7b18bf60540fd19a3973d663a2090"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-quick-order-shipment/zipball/1e69548c0cd7b18bf60540fd19a3973d663a2090",
+                    "reference": "1e69548c0cd7b18bf60540fd19a3973d663a2090",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0"
+                },
+                "time": "2024-09-10T15:53:12+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\QuickOrderShipment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-quick-order-shipment/tree/0.1.0",
+                    "issues": "https://github.com/rad-works/module-quick-order-shipment/issues"
+                }
+            },
+            {
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-quick-order-shipment.git",
+                    "reference": "4be6b087b4d51c3fb42ecb35596d2088768241dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-quick-order-shipment/zipball/4be6b087b4d51c3fb42ecb35596d2088768241dc",
+                    "reference": "4be6b087b4d51c3fb42ecb35596d2088768241dc",
+                    "shasum": ""
+                },
+                "time": "2024-09-29T14:34:23+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-quick-order-shipment/tree/0.2.0",
+                    "issues": "https://github.com/rad-works/module-quick-order-shipment/issues"
+                }
+            },
+            {
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/rad-works/module-quick-order-shipment.git",
+                    "reference": "72cfdfb4225e48d955079f94c3795df7b43108d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-quick-order-shipment/zipball/72cfdfb4225e48d955079f94c3795df7b43108d7",
+                    "reference": "72cfdfb4225e48d955079f94c3795df7b43108d7",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.1.0"
+                },
+                "time": "2026-05-18T16:43:04+00:00",
+                "support": {
+                    "source": "https://github.com/rad-works/module-quick-order-shipment/tree/0.2.1",
+                    "issues": "https://github.com/rad-works/module-quick-order-shipment/issues"
+                }
+            }
+        ]
+    },
+    "minified": "composer/2.0"
+}
