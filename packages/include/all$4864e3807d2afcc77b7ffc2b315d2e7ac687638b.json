@@ -1441,6 +1441,82 @@
                     "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
                 }
             },
+            "0.6.1": {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "0.6.1",
+                "version_normalized": "0.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "017f147788df720398995af953b178050227de94"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/017f147788df720398995af953b178050227de94",
+                    "reference": "017f147788df720398995af953b178050227de94",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-api-core": "*"
+                },
+                "time": "2026-06-24T16:54:14+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrier\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.6.1",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            },
+            "dev-feature/ltl-overhaul": {
+                "name": "rad-works/module-shipengine-carrier",
+                "version": "dev-feature/ltl-overhaul",
+                "version_normalized": "dev-feature/ltl-overhaul",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:rad-works/module-shipengine-carrier.git",
+                    "reference": "7ce1c27d0a08c31a89e875c0e2dbe7ade6185532"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/7ce1c27d0a08c31a89e875c0e2dbe7ade6185532",
+                    "reference": "7ce1c27d0a08c31a89e875c0e2dbe7ade6185532",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~8.1.0||~8.2.0||~8.3.0",
+                    "rad-works/module-shipengine-api-core": "*"
+                },
+                "time": "2026-06-20T13:26:23+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "RadWorks\\ShipEngineCarrier\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "support": {
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/feature/ltl-overhaul",
+                    "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
+                }
+            },
             "dev-main": {
                 "name": "rad-works/module-shipengine-carrier",
                 "version": "dev-main",
@@ -1448,19 +1524,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:rad-works/module-shipengine-carrier.git",
-                    "reference": "505ddbd0014c5b865347ce0f3e200c679613c1b1"
+                    "reference": "017f147788df720398995af953b178050227de94"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/505ddbd0014c5b865347ce0f3e200c679613c1b1",
-                    "reference": "505ddbd0014c5b865347ce0f3e200c679613c1b1",
+                    "url": "https://api.github.com/repos/rad-works/module-shipengine-carrier/zipball/017f147788df720398995af953b178050227de94",
+                    "reference": "017f147788df720398995af953b178050227de94",
                     "shasum": ""
                 },
                 "require": {
                     "php": "~8.1.0||~8.2.0||~8.3.0",
                     "rad-works/module-shipengine-api-core": "*"
                 },
-                "time": "2026-06-12T10:54:53+00:00",
+                "time": "2026-06-24T16:54:14+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -1476,7 +1552,7 @@
                     "AFL-3.0"
                 ],
                 "support": {
-                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.5.7",
+                    "source": "https://github.com/rad-works/module-shipengine-carrier/tree/0.6.1",
                     "issues": "https://github.com/rad-works/module-shipengine-carrier/issues"
                 }
             },
