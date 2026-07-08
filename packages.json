@@ -1,11 +1,10 @@
 {
     "packages": [],
     "includes": {
-        "include/all$4864e3807d2afcc77b7ffc2b315d2e7ac687638b.json": {
-            "sha1": "4864e3807d2afcc77b7ffc2b315d2e7ac687638b"
+        "include/all$4329b1822dfebce817184454a630f5c5993d2d52.json": {
+            "sha1": "4329b1822dfebce817184454a630f5c5993d2d52"
         }
     },
-    "metadata-url": "/p2/%package%.json",
     "available-packages": [
         "rad-works/module-dropday",
         "rad-works/module-inventory-shipping-source",
